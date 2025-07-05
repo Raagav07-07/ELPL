@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "googleapis": "^150.0.1"
+  }
+}
